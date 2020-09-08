@@ -1,5 +1,5 @@
 <h1 align="center">
-  Rocket Seat - Desafio 06: Database upload
+  Rocket Seat - Desafio 07: Fundamentos ReactJS - GoFinances
 </h1>
 
 <p align="center">
